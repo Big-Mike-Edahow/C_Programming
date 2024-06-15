@@ -1,2 +1,2 @@
-# C_Programming
-Example programs from the text C Programming in easy steps
+# C Programming in easy steps
+My versions of example programs from the text C Programming in easy steps.
